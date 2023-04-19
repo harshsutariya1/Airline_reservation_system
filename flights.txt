@@ -1,0 +1,4 @@
+Flight_Number:10101  Source_City:ahmedabad  Destination_City:pune  Ticket_Price:3000.0
+Flight_Number:10102  Source_City:jammu  Destination_City:nepal  Ticket_Price:500.0
+Flight_Number:10201  Source_City:mumbai  Destination_City:delhi  Ticket_Price:1500.0
+Flight_Number:10202  Source_City:kasol  Destination_City:delhi  Ticket_Price:3000.0

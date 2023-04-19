@@ -1,0 +1,24 @@
+_________________________________________________
+Passenger Details:
+Passenger_Name:Harsh  Gender:Male  Age:20  Contact_Number:5015487628
+Flight Details:
+Flight_Number:10101  Source_City:ahmedabad  Destination_City:pune  Ticket_Price:3000.0
+_________________________________________________
+
+
+_________________________________________________
+Passenger Details:
+Passenger_Name:ferin  Gender:male  Age:20  Contact_Number:4567981231
+Flight Details:
+Flight_Number:10202  Source_City:kasol  Destination_City:delhi  Ticket_Price:3000.0
+_________________________________________________
+
+
+_________________________________________________
+Passenger Details:
+Passenger_Name:vishesh  Gender:M  Age:20  Contact_Number:789456132
+Flight Details:
+Flight_Number:10101  Source_City:ahmedabad  Destination_City:pune  Ticket_Price:3000.0
+_________________________________________________
+
+
