@@ -10,8 +10,7 @@ class Flight {
 
      }
 
-     Flight(String flightNumber, String sourceCity, String destinationCity, /* int totalSeats, int availableSeats, */
-               Double ticketPrice) {
+     Flight(String flightNumber, String sourceCity, String destinationCity, /* int totalSeats, int availableSeats, */ Double ticketPrice) {
           this.flightNumber = flightNumber;
           this.sourceCity = sourceCity;
           this.destinationCity = destinationCity;
